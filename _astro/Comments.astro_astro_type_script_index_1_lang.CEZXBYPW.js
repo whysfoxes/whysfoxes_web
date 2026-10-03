@@ -1,0 +1,1 @@
+import{t as e}from"./preload-helper.BYgdTtFv.js";var t=()=>void e(()=>import(`./comments-refresh.75TcQTa5.js`).then(e=>e.initCommentsRefresh()),[]),n=()=>`requestIdleCallback`in window?requestIdleCallback(t,{timeout:4e3}):setTimeout(t,1500);document.readyState===`complete`?n():addEventListener(`load`,n,{once:!0});

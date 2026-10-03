@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# For language models: https://whysfoxes.github.io/whysfoxes_web/llms.txt
+Sitemap: https://whysfoxes.github.io/whysfoxes_web/sitemap.xml

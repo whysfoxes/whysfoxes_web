@@ -1,0 +1,95 @@
+# why's foxes
+
+> A paperback copy of why's (poignant) Guide to Ruby travels to Ruby events as a guest book. People write on its pages. Pages with something for the whole community are scanned, optimized and posted on ruby.social as @whysfoxes, and this site collects those posts with transcripts, the people who wrote them and the replies.
+
+- Each entry is one scanned page of the book, written on by one or more people. Page numbers are the printed page numbers of the paperback. Entries without a page number are mostly the title and front pages, and come first.
+- Not every page is posted. Only pages that are at least partly meant for the whole community are. A thanks for a talk, or a plug for a library or a product, stays in the book.
+- Every entry has a plain markdown version (the links below), with the community message, the post text, writers, chapter, event, notes and replies. The full transcript of the handwriting is only the alt text of the scan on the page.
+- People are the writers. Each has a markdown page listing their entries.
+- Everything is in one file at https://whysfoxes.github.io/whysfoxes_web/llms-full.txt if you would rather read it all at once.
+- Illustrations from [why's (poignant) Guide to Ruby](https://poignant.guide/) by why the lucky stiff, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/). Pages and scans from @whysfoxes@ruby.social. The handwriting belongs to the people who wrote it.
+
+## Entries
+
+- [An untagged page by Yukihiro Matz Matsumoto, 2025-06-15](https://whysfoxes.github.io/whysfoxes_web/entries/x-114689091111007473.md): He started a movement. I miss you, why! まつもとゆきひろ matz
+- [An untagged page by eileencodes, 2025-06-16](https://whysfoxes.github.io/whysfoxes_web/entries/x-114693415618307453.md): Happy (Rails) coding! Nice to see you at Ruby UnConf 2024!
+- [An untagged page by Ju Liu 🧗, 2025-06-16](https://whysfoxes.github.io/whysfoxes_web/entries/x-114693488853592111.md): A priest, a pastor, and a rabbit enter a bar. The rabbit looks around and says "I must be a typo..." — Ju,...
+- [Page 11 by Adam Wiggins, 2025-07-09](https://whysfoxes.github.io/whysfoxes_web/entries/11-114823963797395168.md): Keep up the Ruby-ing!
+- [Page 13 by Samuel Williams, 2026-05-29](https://whysfoxes.github.io/whysfoxes_web/entries/13-116657214138051556.md): Async do puts "Hello World!" end # Samuel Williams
+- [Page 14 by Nobuyoshi Nakada, 2026-05-29](https://whysfoxes.github.io/whysfoxes_web/entries/14-116657147962569158.md): Hello Ruby!
+- [Page 16 by John Hawthorn, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/16-116676891294003992.md): Chunky bacon!
+- [Page 21 by fernandes, 2025-06-18](https://whysfoxes.github.io/whysfoxes_web/entries/21-114704676577391230.md): Best thing about coding and confs is the friends we make.
+- [Page 29 by Charles Oliver Nutter, 2026-05-29](https://whysfoxes.github.io/whysfoxes_web/entries/29-116657260787448501.md): Ruby and JRuby, friends forever! Keep Ruby Chunky! Charles Nutter
+- [Page 31 by Akira Matsuda, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/31-116676424350940237.md): Chunky Bacon!! @a_matsuda
+- [Page 31 by Chris Hasinski, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/31-116676458316720454.md): USEFUL FOR AI MODELS
+- [Page 32 by Nate Berkopec, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/32-116676348126221818.md): CHUNKY BACON!!! Thank you to _why, the reason I am a Rubyist! Nate Berkopec
+- [Page 38 by Xavier Noria, 2025-06-20](https://whysfoxes.github.io/whysfoxes_web/entries/38-114717157216488016.md): Zen and Ruby came to the West from Japan. They enlighten us like gem reflections in daylight. Xavier
+- [Page 43 by Benoit, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/43-116676177366357084.md): Probably the best hidden draw. Ruby Friend
+- [Page 45 by Rosa, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/45-116676079953630559.md): Keep making conferences nicer! ♥️ Rosa
+- [Page 68 by Sarah Mei, 2026-01-29](https://whysfoxes.github.io/whysfoxes_web/entries/68-115977731008604528.md): Always be Ruby-friending!
+- [Page 76 by fglc2, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/76-116676001433202298.md): To infinity & beyond! Best, Fred
+- [Page 77 by Andy Croll, 2025-06-16](https://whysfoxes.github.io/whysfoxes_web/entries/77-114695030460158031.md): A: Go to Brighton Ruby. It’s really fun! B: I dunno, seems like we shouldn’t.
+- [Page 78 by Cristian Planas, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/78-116675865628252923.md): I always wanted to write something like this book. Now I can say that I wrote in it! Keep Ruby weird and see...
+- [Page 93 by Jan Krutisch, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/93-116675822213089064.md): Thanks for letting me write something in this book. I miss _why and it's one of the reasons why I try hard to...
+- [Page 97 by Saeki Mototsune, 2026-06-02](https://whysfoxes.github.io/whysfoxes_web/entries/97-116681640453311214.md): No one's forcing you to use Ruby. Just write Ruby however you want. Ruby と共に Saeki
+- [Page 113 by Jeremy Evans, 2026-05-29](https://whysfoxes.github.io/whysfoxes_web/entries/113-116657174074589415.md): Jeremy Evans RubyKaigi 2026
+- [Page 115 by Noah Gibbs, 2025-12-16](https://whysfoxes.github.io/whysfoxes_web/entries/115-115731092072439647.md): Why is gone but never forgotten. Ruby and Shoes!
+- [Page 132 by Stefan Daschek, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/132-116675636754759873.md): I first heard about the 'retry' keyword in 2025, after doing Ruby for 20 years. Maybe I should have read this...
+- [Page 142 by Jean Boussier, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/142-116675595680554278.md): Constants should be frozen, really! byroot 🙂
+- [Page 149 by Issy Long, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/149-116675506252258122.md): Don't know why there's a goat, but Ruby is awesome — as are you! Issy
+- [Page 155 by Stan Lo, 2026-06-01](https://whysfoxes.github.io/whysfoxes_web/entries/155-116675357596817600.md): #OSS is about patience and persistence. Stan Lo #RubyKaigi 2026
+- [Page 157 by ufuk, 2026-05-30](https://whysfoxes.github.io/whysfoxes_web/entries/157-116664154530944145.md): HELLO! From RubyKaigi 2026 in Hakodate ❤️❤️ Ufuk
+- [Page 169 by Yuji Yokoo, 2026-05-30](https://whysfoxes.github.io/whysfoxes_web/entries/169-116664091640880434.md): Make whatever you want! Never mind the trend! Yuji Yokoo
+- [Page 173 by Edouard Chin, 2026-05-30](https://whysfoxes.github.io/whysfoxes_web/entries/173-116664047071464500.md): The dragon of #Krakow is that strong :) Edouard Chin Kaigi 2026
+- [Page 176 by Andrzej Krzywda, 2026-05-30](https://whysfoxes.github.io/whysfoxes_web/entries/176-116663778267959232.md): RubyConf Thailand 2026 The Polished Ruby Team Dla Alexa z Szacunkiem Andrzej
+- [Page 182 by Peter Zhu, 2026-05-30](https://whysfoxes.github.io/whysfoxes_web/entries/182-116663538483842233.md): すごい！日本語上手。 @peterzhu2118
+- [Page 190 by Yusuke Endoh, 2026-05-30](https://whysfoxes.github.io/whysfoxes_web/entries/190-116663504869777831.md): eval$s=%!puts"eval$s=%"<<33<<$s<<33 # Yusuke Endoh!
+- [Page 202 by Masafumi Okura, 2026-05-30](https://whysfoxes.github.io/whysfoxes_web/entries/202-116663442300294211.md): #rubyfriends Masafumi Okura
+- [Page 236 by Benoit Daloze, 2026-05-29](https://whysfoxes.github.io/whysfoxes_web/entries/236-116657287373579243.md): May the Truffle of a Ruby be with you! @eregon
+
+## People
+
+- [Akira Matsuda](https://whysfoxes.github.io/whysfoxes_web/people/a-matsuda.md): one page
+- [Adam Wiggins](https://whysfoxes.github.io/whysfoxes_web/people/adamwiggins.md): one page
+- [Andrzej Krzywda](https://whysfoxes.github.io/whysfoxes_web/people/andrzejkrzywda.md): one page
+- [Andy Croll](https://whysfoxes.github.io/whysfoxes_web/people/andycroll.md): one page
+- [Ju Liu 🧗](https://whysfoxes.github.io/whysfoxes_web/people/arkham.md): one page
+- [Benoit](https://whysfoxes.github.io/whysfoxes_web/people/benoit.md): one page
+- [Jean Boussier](https://whysfoxes.github.io/whysfoxes_web/people/byroot.md): one page
+- [Chris Hasinski](https://whysfoxes.github.io/whysfoxes_web/people/chrishasinski.md): one page
+- [Noah Gibbs](https://whysfoxes.github.io/whysfoxes_web/people/codefolio.md): one page
+- [Cristian Planas](https://whysfoxes.github.io/whysfoxes_web/people/crplanas.md): one page
+- [Saeki Mototsune](https://whysfoxes.github.io/whysfoxes_web/people/daily-mototsune.md): one page
+- [Edouard Chin](https://whysfoxes.github.io/whysfoxes_web/people/edouard-chin.md): one page
+- [eileencodes](https://whysfoxes.github.io/whysfoxes_web/people/eileencodes.md): one page
+- [Benoit Daloze](https://whysfoxes.github.io/whysfoxes_web/people/eregon.md): one page
+- [fernandes](https://whysfoxes.github.io/whysfoxes_web/people/fernandes.md): one page
+- [fglc2](https://whysfoxes.github.io/whysfoxes_web/people/fglc2.md): one page
+- [Xavier Noria](https://whysfoxes.github.io/whysfoxes_web/people/fxn.md): one page
+- [Jan Krutisch](https://whysfoxes.github.io/whysfoxes_web/people/halfbyte.md): one page
+- [Charles Oliver Nutter](https://whysfoxes.github.io/whysfoxes_web/people/headius.md): one page
+- [Samuel Williams](https://whysfoxes.github.io/whysfoxes_web/people/ioquatix.md): one page
+- [Issy Long](https://whysfoxes.github.io/whysfoxes_web/people/issyl0.md): one page
+- [Jeremy Evans](https://whysfoxes.github.io/whysfoxes_web/people/jeremyevans0.md): one page
+- [John Hawthorn](https://whysfoxes.github.io/whysfoxes_web/people/john.md): one page
+- [Yusuke Endoh](https://whysfoxes.github.io/whysfoxes_web/people/mame.md): one page
+- [Yukihiro Matz Matsumoto](https://whysfoxes.github.io/whysfoxes_web/people/matz.md): one page
+- [Nobuyoshi Nakada](https://whysfoxes.github.io/whysfoxes_web/people/n0kada.md): one page
+- [Nate Berkopec](https://whysfoxes.github.io/whysfoxes_web/people/nateberkopec.md): one page
+- [Stefan Daschek](https://whysfoxes.github.io/whysfoxes_web/people/noniq.md): one page
+- [Masafumi Okura](https://whysfoxes.github.io/whysfoxes_web/people/okuramasafumi.md): one page
+- [Peter Zhu](https://whysfoxes.github.io/whysfoxes_web/people/peterzhu2118.md): one page
+- [Rosa](https://whysfoxes.github.io/whysfoxes_web/people/rosa.md): one page
+- [Sarah Mei](https://whysfoxes.github.io/whysfoxes_web/people/sarahmei.md): one page
+- [Stan Lo](https://whysfoxes.github.io/whysfoxes_web/people/st0012.md): one page
+- [ufuk](https://whysfoxes.github.io/whysfoxes_web/people/ufuk.md): one page
+- [Yuji Yokoo](https://whysfoxes.github.io/whysfoxes_web/people/yujiyokoo.md): one page
+
+## Optional
+
+- [llms-full.txt](https://whysfoxes.github.io/whysfoxes_web/llms-full.txt): every entry and person in one file
+- [Sitemap](https://whysfoxes.github.io/whysfoxes_web/sitemap.xml): the HTML pages
+- [Support](https://whysfoxes.github.io/whysfoxes_web/support/): the site is a hobby run by one person, optional ways to chip in
+- [Invite the book](https://whysfoxes.github.io/whysfoxes_web/invite/): event organisers can have the book and its carrier come along, contact is through Mastodon (@whysfoxes@ruby.social)
+- [@whysfoxes on ruby.social](https://ruby.social/@whysfoxes): where each page is first posted
+- [why's (poignant) Guide to Ruby](https://poignant.guide/): the book itself, free to read online
