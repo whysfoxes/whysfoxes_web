@@ -1,0 +1,519 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-09T10:54:40Z",
+  "accounts": {
+    "a_matsuda@ruby.social": {
+      "mastodon_url": "https://ruby.social/@a_matsuda",
+      "bluesky": null,
+      "x": "a_matsuda",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "adamwiggins@mas.to": {
+      "mastodon_url": "https://mas.to/@adamwiggins",
+      "bluesky": {
+        "handle": "adamwiggins.com",
+        "did": "did:plc:dlelaxuh6y3tp7mdxiqh5gun"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "alexanderadam@ruby.social": {
+      "mastodon_url": "https://ruby.social/@alexanderadam",
+      "bluesky": {
+        "handle": "alexanderadam.bsky.social",
+        "did": "did:plc:nejzqkqrx52vsnv3lhwaxoyw"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "andrzejkrzywda@ruby.social": {
+      "mastodon_url": "https://ruby.social/@andrzejkrzywda",
+      "bluesky": null,
+      "x": "andrzejkrzywda",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "andycroll@ruby.social": {
+      "mastodon_url": "https://ruby.social/@andycroll",
+      "bluesky": null,
+      "x": "andycroll",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "arkham@hachyderm.io": {
+      "mastodon_url": "https://hachyderm.io/@arkham",
+      "bluesky": null,
+      "x": "arkh4m",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "benoit@ruby.social": {
+      "mastodon_url": "https://ruby.social/@benoit",
+      "bluesky": {
+        "handle": "benoittgt.bsky.social",
+        "did": "did:plc:ltrgka6u53udltw552ia7mos"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "profile"
+      }
+    },
+    "booldog@ruby.social": {
+      "mastodon_url": "https://ruby.social/@booldog",
+      "bluesky": {
+        "handle": "booldog.bsky.social",
+        "did": "did:plc:v7rc3nc2bniku5tl4xvb7wkp"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "brightonruby@ruby.social": {
+      "mastodon_url": "https://ruby.social/@brightonruby",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "byroot@ruby.social": {
+      "mastodon_url": "https://ruby.social/@byroot",
+      "bluesky": null,
+      "x": "_byroot",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "chikahiro@ruby.social": {
+      "mastodon_url": "https://ruby.social/@chikahiro",
+      "bluesky": null,
+      "x": "chikahirotokoro",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "chrishasinski@ruby.social": {
+      "mastodon_url": "https://ruby.social/@chrishasinski",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "codefolio@ruby.social": {
+      "mastodon_url": "https://ruby.social/@codefolio",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "crackofdusk@ruby.social": {
+      "mastodon_url": "https://ruby.social/@crackofdusk",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "crplanas@ruby.social": {
+      "mastodon_url": "https://ruby.social/@crplanas",
+      "bluesky": null,
+      "x": "crplanas",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "daily_mototsune@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/daily_mototsune",
+      "bluesky": null,
+      "x": "daily_mototsune",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "edouard_chin@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/edouard_chin",
+      "bluesky": null,
+      "x": "edouard_chin",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "eightbitraptor@ruby.social": {
+      "mastodon_url": "https://ruby.social/@eightbitraptor",
+      "bluesky": {
+        "handle": "eightbitraptor.bsky.social",
+        "did": "did:plc:xfegvvfbs22qpjakch7hfqis"
+      },
+      "x": "eightbitraptor",
+      "source": {
+        "bluesky": "people.yaml",
+        "x": "rubyevents"
+      }
+    },
+    "eileencodes@ruby.social": {
+      "mastodon_url": "https://ruby.social/@eileencodes",
+      "bluesky": null,
+      "x": "eileencodes",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "eregon@ruby.social": {
+      "mastodon_url": "https://ruby.social/@eregon",
+      "bluesky": {
+        "handle": "eregon.me",
+        "did": "did:plc:cb34r4htgqlkp7adfyee56je"
+      },
+      "x": "eregontp",
+      "source": {
+        "bluesky": "people.yaml",
+        "x": "rubyevents"
+      }
+    },
+    "fernandes@ruby.social": {
+      "mastodon_url": "https://ruby.social/@fernandes",
+      "bluesky": null,
+      "x": "celsovjf",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "fglc2@ruby.social": {
+      "mastodon_url": "https://ruby.social/@fglc2",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "friendlyrb@ruby.social": {
+      "mastodon_url": "https://ruby.social/@friendlyrb",
+      "bluesky": {
+        "handle": "friendlyrb.com",
+        "did": "did:plc:s5ccksqqn37ajesu4k73pvpa"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "fxn@mastodon.social": {
+      "mastodon_url": "https://mastodon.social/@fxn",
+      "bluesky": null,
+      "x": "fxn",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "halfbyte@ruby.social": {
+      "mastodon_url": "https://ruby.social/@halfbyte",
+      "bluesky": null,
+      "x": "halfbyte",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "hanakai@ruby.social": {
+      "mastodon_url": "https://ruby.social/@hanakai",
+      "bluesky": {
+        "handle": "hanakai.org",
+        "did": "did:plc:qi3a6zqjylptxfbjwwlip3wp"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "headius@mastodon.social": {
+      "mastodon_url": "https://mastodon.social/@headius",
+      "bluesky": null,
+      "x": "headius",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "helvetic_ruby@ruby.social": {
+      "mastodon_url": "https://ruby.social/@helvetic_ruby",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "ioquatix@ruby.social": {
+      "mastodon_url": "https://ruby.social/@ioquatix",
+      "bluesky": null,
+      "x": "ioquatix",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "issyl0@ruby.social": {
+      "mastodon_url": "https://ruby.social/@issyl0",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "jeremyevans0@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/jeremyevans0",
+      "bluesky": null,
+      "x": "jeremyevans0",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "john@hawthorn.pub": {
+      "mastodon_url": "https://hawthorn.pub/@john",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "jruby@ruby.social": {
+      "mastodon_url": "https://ruby.social/@JRuby",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "kaigionrails@ruby.social": {
+      "mastodon_url": "https://ruby.social/@kaigionrails",
+      "bluesky": {
+        "handle": "kaigionrails.org",
+        "did": "did:plc:6lavh3p57yy2aeq2ikjfhzzy"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "mame@ruby.social": {
+      "mastodon_url": "https://ruby.social/@mame",
+      "bluesky": null,
+      "x": "mametter",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "mateusz_palak@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/mateusz_palak",
+      "bluesky": null,
+      "x": "mateusz_palak",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "matz@ruby.social": {
+      "mastodon_url": "https://ruby.social/@matz",
+      "bluesky": null,
+      "x": "yukihiro_matz",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "mojombo@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/mojombo",
+      "bluesky": null,
+      "x": "mojombo",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "n0kada@mstdn.jp": {
+      "mastodon_url": "https://mstdn.jp/@n0kada",
+      "bluesky": null,
+      "x": "n0kada",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "nateberkopec@mastodon.social": {
+      "mastodon_url": "https://mastodon.social/@nateberkopec",
+      "bluesky": null,
+      "x": "nateberkopec",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "nickschwaderer@ruby.social": {
+      "mastodon_url": "https://ruby.social/@nickschwaderer",
+      "bluesky": {
+        "handle": "schwad.org",
+        "did": "did:plc:rj3akmpbjjcz7asbuvgecoo4"
+      },
+      "x": "schwad_rb",
+      "source": {
+        "bluesky": "people.yaml",
+        "x": "rubyevents"
+      }
+    },
+    "noniq@chaos.social": {
+      "mastodon_url": "https://chaos.social/@noniq",
+      "bluesky": {
+        "handle": "noniq.at",
+        "did": "did:plc:v675qg2dbqwkuh3wp4pbnh3m"
+      },
+      "x": "noniq",
+      "source": {
+        "bluesky": "profile",
+        "x": "rubyevents"
+      }
+    },
+    "okuramasafumi@ruby.social": {
+      "mastodon_url": "https://ruby.social/@okuramasafumi",
+      "bluesky": null,
+      "x": "okuramasafumi",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "peterzhu2118@ruby.social": {
+      "mastodon_url": "https://ruby.social/@peterzhu2118",
+      "bluesky": {
+        "handle": "peterzhu.ca",
+        "did": "did:plc:7mwa6olf6hw2fy6aqnsgwe7r"
+      },
+      "x": "peterzhu2118",
+      "source": {
+        "bluesky": "people.yaml",
+        "x": "rubyevents"
+      }
+    },
+    "pragdave@hachyderm.io": {
+      "mastodon_url": "https://hachyderm.io/@pragdave",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "rails@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/rails",
+      "bluesky": null,
+      "x": "rails",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "roli@ruby.social": {
+      "mastodon_url": "https://ruby.social/@roli",
+      "bluesky": null,
+      "x": "roli_on_rails",
+      "source": {
+        "x": "rubyevents"
+      }
+    },
+    "rosa@tu.social": {
+      "mastodon_url": "https://tu.social/@rosa",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "rspec@ruby.social": {
+      "mastodon_url": "https://ruby.social/@RSpec",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "rubyconfat@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/rubyconfat",
+      "bluesky": null,
+      "x": "rubyconfat",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "rubyconfth@ruby.social": {
+      "mastodon_url": "https://ruby.social/@rubyconfth",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "rubykaigi@ruby.social": {
+      "mastodon_url": "https://ruby.social/@rubykaigi",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "rubyunconf@ruby.social": {
+      "mastodon_url": "https://ruby.social/@rubyunconf",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "sarahmei@ruby.social": {
+      "mastodon_url": "https://ruby.social/@sarahmei",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    },
+    "snoozer05@bird.makeup": {
+      "mastodon_url": "https://bird.makeup/users/snoozer05",
+      "bluesky": null,
+      "x": "snoozer05",
+      "source": {
+        "x": "bird.makeup"
+      }
+    },
+    "st0012@ruby.social": {
+      "mastodon_url": "https://ruby.social/@st0012",
+      "bluesky": {
+        "handle": "st0012.dev",
+        "did": "did:plc:rchn3dpzjricf5aiqhpsq3sr"
+      },
+      "x": "_st0012",
+      "source": {
+        "bluesky": "people.yaml",
+        "x": "rubyevents"
+      }
+    },
+    "timriley@ruby.social": {
+      "mastodon_url": "https://ruby.social/@timriley",
+      "bluesky": {
+        "handle": "timriley.info",
+        "did": "did:plc:p7qyqtlylejwtwksdixcl6ym"
+      },
+      "x": "timriley",
+      "source": {
+        "bluesky": "people.yaml",
+        "x": "rubyevents"
+      }
+    },
+    "truffleruby@ruby.social": {
+      "mastodon_url": "https://ruby.social/@truffleruby",
+      "bluesky": {
+        "handle": "truffleruby.dev",
+        "did": "did:plc:kbpzh26etmypdz6q7e5bsati"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "ufuk@ruby.social": {
+      "mastodon_url": "https://ruby.social/@ufuk",
+      "bluesky": {
+        "handle": "ufuk.dev",
+        "did": "did:plc:hwr2xtsdnnxd6imzdhlihesm"
+      },
+      "x": "paracycle",
+      "source": {
+        "bluesky": "people.yaml",
+        "x": "rubyevents"
+      }
+    },
+    "whysfoxes@ruby.social": {
+      "mastodon_url": "https://ruby.social/@whysfoxes",
+      "bluesky": {
+        "handle": "whysfoxes.bsky.social",
+        "did": "did:plc:22hy5gbfkvemyfgcuobnogjb"
+      },
+      "x": null,
+      "source": {
+        "bluesky": "people.yaml"
+      }
+    },
+    "yujiyokoo@ruby.social": {
+      "mastodon_url": "https://ruby.social/@yujiyokoo",
+      "bluesky": null,
+      "x": null,
+      "source": {}
+    }
+  }
+}

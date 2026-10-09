@@ -1,0 +1,41 @@
+---
+title: "Page 169 by Yuji Yokoo, 2026-05-30"
+page: 169
+chapter: "chapter 6"
+chapter_url: "https://poignant.guide/book/chapter-6.html"
+writers:
+  - name: "Yuji Yokoo"
+    handle: "@yujiyokoo"
+date: 2026-05-30
+canonical: "https://whysfoxes.github.io/whysfoxes_web/entries/169-yujiyokoo/"
+mastodon: "https://ruby.social/@whysfoxes/116664091640880434"
+image: "https://whysfoxes.github.io/whysfoxes_web/_astro/116664072663477048.B5kmdUpU_UYyYa.jpeg"
+---
+
+# Page 169 by Yuji Yokoo, 2026-05-30
+
+Page 169 of why's (poignant) Guide to Ruby, the paperback guest book. Written by Yuji Yokoo. It sits in [chapter 6](https://poignant.guide/book/chapter-6.html) of the book. Scanned, optimized and posted on 2026-05-30.
+
+## Community message
+
+> Make whatever you want! Never mind the trend!
+> Yuji Yokoo
+
+## From the post on ruby.social
+
+The amazing @yujiyokoo gave a piece of advice that is also a way of life:
+
+Yuji has been doing cool things with #Ruby for a very long time, and after that long you learn that the trend will move on and the thing you actually wanted to build will not. A fox nods, ignores the latest trends entirely, and goes back to making something weird for his #SEGA #megadrive / #genesis.
+
+## Image
+
+![Scan of page 169](https://whysfoxes.github.io/whysfoxes_web/_astro/116664072663477048.B5kmdUpU_UYyYa.jpeg)
+
+## Writers
+
+- Yuji Yokoo (@yujiyokoo): [Mastodon](https://ruby.social/@yujiyokoo), [RubyEvents](https://www.rubyevents.org/speakers/yuji-yokoo).
+
+## Links
+
+- [This page as HTML](https://whysfoxes.github.io/whysfoxes_web/entries/169-yujiyokoo/)
+- [The post on ruby.social](https://ruby.social/@whysfoxes/116664091640880434)

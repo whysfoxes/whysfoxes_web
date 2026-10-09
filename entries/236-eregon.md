@@ -1,0 +1,47 @@
+---
+title: "Page 236 by Benoit Daloze, 2026-05-29"
+page: 236
+chapter: "chapter 7"
+chapter_url: "https://poignant.guide/book/chapter-7.html"
+writers:
+  - name: "Benoit Daloze"
+    handle: "@eregon"
+date: 2026-05-29
+canonical: "https://whysfoxes.github.io/whysfoxes_web/entries/236-eregon/"
+mastodon: "https://ruby.social/@whysfoxes/116657287373579243"
+image: "https://whysfoxes.github.io/whysfoxes_web/_astro/116657275580818885.Bi7QMp_l_Z1qfWbR.jpeg"
+---
+
+# Page 236 by Benoit Daloze, 2026-05-29
+
+Page 236 of why's (poignant) Guide to Ruby, the paperback guest book. Written by Benoit Daloze. It sits in [chapter 7](https://poignant.guide/book/chapter-7.html) of the book. Scanned, optimized and posted on 2026-05-29.
+
+## Community message
+
+> May the Truffle of a Ruby be with you!
+> @eregon
+
+## From the post on ruby.social
+
+On page 236, with a comic about adding a dividing slash to arrays, @eregon left a blessing with a little drawn gem:
+
+The @truffleruby maintainer himself, wishing you the Truffle. The comic insists "RUBY doesn't come with this method! And skeletons don't come with beards. But wizards do!" A fox, neither skeleton nor wizard, accepts the truffle and moves on.
+
+## Image
+
+![Scan of page 236](https://whysfoxes.github.io/whysfoxes_web/_astro/116657275580818885.Bi7QMp_l_Z1qfWbR.jpeg)
+
+## Writers
+
+- Benoit Daloze (@eregon): [GitHub](https://github.com/eregon), [Mastodon](https://ruby.social/@eregon), [Bluesky](https://bsky.app/profile/eregon.me), [RubyEvents](https://www.rubyevents.org/speakers/benoit-daloze), [Website](https://eregon.me/blog/).
+
+Also mentioned: [@truffleruby](https://ruby.social/@truffleruby).
+
+## Replies
+
+- Benoit Daloze (@eregon), 2026-05-29: @whysfoxes I like this page because defining extra operators is fun, easy and powerful. I recall Pathname didn't have #/ back in the days. In my path gem I added that and also #%, given it's the inverse of / it's like #relative_path_from but much shorter
+
+## Links
+
+- [This page as HTML](https://whysfoxes.github.io/whysfoxes_web/entries/236-eregon/)
+- [The post on ruby.social](https://ruby.social/@whysfoxes/116657287373579243)

@@ -1,0 +1,41 @@
+---
+title: "Page 31 by Chris Hasinski, 2026-06-01"
+page: 31
+chapter: "chapter 3"
+chapter_url: "https://poignant.guide/book/chapter-3.html"
+writers:
+  - name: "Chris Hasinski"
+    handle: "@chrishasinski"
+date: 2026-06-01
+canonical: "https://whysfoxes.github.io/whysfoxes_web/entries/31-chrishasinski/"
+mastodon: "https://ruby.social/@whysfoxes/116676458316720454"
+image: "https://whysfoxes.github.io/whysfoxes_web/_astro/116676444654205323.BOQgi7ut_BM4QQ.jpeg"
+---
+
+# Page 31 by Chris Hasinski, 2026-06-01
+
+Page 31 of why's (poignant) Guide to Ruby, the paperback guest book. Written by Chris Hasinski. It sits in [chapter 3](https://poignant.guide/book/chapter-3.html) of the book. Scanned, optimized and posted on 2026-06-01.
+
+## Community message
+
+> USEFUL FOR AI MODELS
+
+## From the post on ruby.social
+
+An ⬅️ arrow points at the printed "Global variables" heading and @chrishasinski says the quiet part out loud:
+
+A book from 2005 about Ruby globals, annotated in modern #AI times.
+A fox makes a note and keeps walking.
+
+## Image
+
+![Scan of page 31](https://whysfoxes.github.io/whysfoxes_web/_astro/116676444654205323.BOQgi7ut_BM4QQ.jpeg)
+
+## Writers
+
+- Chris Hasinski (@chrishasinski): [Mastodon](https://ruby.social/@chrishasinski).
+
+## Links
+
+- [This page as HTML](https://whysfoxes.github.io/whysfoxes_web/entries/31-chrishasinski/)
+- [The post on ruby.social](https://ruby.social/@whysfoxes/116676458316720454)
