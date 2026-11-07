@@ -1,0 +1,43 @@
+---
+title: "Page 76 by fglc2, 2026-06-01"
+page: 76
+chapter: "chapter 5"
+chapter_url: "https://poignant.guide/book/chapter-5.html"
+writers:
+  - name: "fglc2"
+    handle: "@fglc2"
+date: 2026-06-01
+canonical: "https://whysfox.es/entries/76-fglc2/"
+mastodon: "https://ruby.social/@whysfoxes/116676001433202298"
+bluesky: "https://bsky.app/profile/whysfox.es/post/3mxo2y6hmhy2b"
+image: "https://whysfox.es/_astro/116675987462391949.v-SD4HNM_ZlPc4G.jpeg"
+---
+
+# Page 76 by fglc2, 2026-06-01
+
+Page 76 of why's (poignant) Guide to Ruby, the paperback guest book. Written by fglc2. It sits in [chapter 5](https://poignant.guide/book/chapter-5.html) of the book. Scanned, optimized and posted on 2026-06-01.
+
+## Community message
+
+> To infinity & beyond!
+> Best, Fred
+
+## From the post on ruby.social
+
+On page 76 @fglc2 wrote the kind of note you keep:
+
+To infinity and beyond is something that all foxes fully understand.
+
+## Image
+
+![Scan of page 76](https://whysfox.es/_astro/116675987462391949.v-SD4HNM_ZlPc4G.jpeg)
+
+## Writers
+
+- fglc2 (@fglc2): [Mastodon](https://ruby.social/@fglc2), [Website](https://spacevatican.org).
+
+## Links
+
+- [This page as HTML](https://whysfox.es/entries/76-fglc2/)
+- [The post on ruby.social](https://ruby.social/@whysfoxes/116676001433202298)
+- [The post on Bluesky](https://bsky.app/profile/whysfox.es/post/3mxo2y6hmhy2b)

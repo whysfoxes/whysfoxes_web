@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# For language models: https://whysfox.es/llms.txt
+Sitemap: https://whysfox.es/sitemap.xml
